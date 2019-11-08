@@ -1,2 +1,24 @@
-# vue-cli3_demo
-cli3脚手架搭建项目例子，可实用于大型工程项目中，配置常用工具，环境变量，
+# cli3test1
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
